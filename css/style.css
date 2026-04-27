@@ -45,6 +45,11 @@ body {
     text-align: left;
 }
 
+.month:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
 .month h2 {
     margin-top: 0;
 }
