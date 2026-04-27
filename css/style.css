@@ -28,3 +28,23 @@ body {
     text-align: left;
     line-height: 1.6;
 }
+
+.calendar {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.month {
+    width: 200px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+.month h2 {
+    margin-top: 0;
+}
