@@ -1,7 +1,6 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: lightgreen;
 }
 
 .row {
@@ -9,6 +8,7 @@ body {
     justify-content: center;
     gap: 20px;
     margin: 20px;
+    background-color: lightgreen;
 }
 
 .row a {
