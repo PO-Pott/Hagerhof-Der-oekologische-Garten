@@ -9,6 +9,8 @@ body {
     gap: 20px;
     margin: 20px;
     background-color: darkgreen;
+    min-height: 180px;
+    align-items: center;
 }
 
 .row a {
