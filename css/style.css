@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 
-.galery-row {
+.myrow {
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -13,12 +13,12 @@ body {
     align-items: center;
 }
 
-.galery-row a {
+.myrow a {
     text-decoration: none;
     color: black;
 }
 
-.galery-row img {
+.myrow img {
     width: 200px;
     height: 150px;
     object-fit: cover;
