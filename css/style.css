@@ -11,11 +11,14 @@ body {
     background-color: lightgreen;
     min-height: 280px;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .myrow a {
     text-decoration: none;
     color: black;
+    flex-direction: column;
+    align-items: center;
 }
 
 .myrow img {
@@ -23,6 +26,7 @@ body {
     height: 150px;
     object-fit: cover;
     border-radius: 10px;
+    display: block;
 }
 
 .text-container {
