@@ -7,6 +7,14 @@ body {
     background-color: darkgreen !important;
 }
 
+.navbar .nav-link {
+    color: white;
+}
+
+.navbar .nav-link:hover {
+    color: #c8e6c9; /* hellgrün beim Hover */
+}
+
 .myrow {
     display: flex;
     justify-content: center;
