@@ -3,6 +3,10 @@ body {
     text-align: center;
 }
 
+.navbar {
+    background-color: darkgreen !ändert die Farbe der navbar;
+}
+
 .myrow {
     display: flex;
     justify-content: center;
