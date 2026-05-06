@@ -37,6 +37,10 @@ body {
     align-items: center;
 }
 
+.myrow a p {
+  color: white;
+}
+
 .myrow img {
     width: 200px;
     height: 150px;
